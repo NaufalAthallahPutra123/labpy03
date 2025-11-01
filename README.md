@@ -18,4 +18,33 @@ Penjelasan:
 
 
 6. Setelah selesai, program mencetak "Selesai".
+### screenshot 
 ![gambar1](ss1.png)
+
+## latihan2.py
+Penjelasan:
+
+1. Modal awal: Rp 100.000.000
+
+
+2. Persentase laba:
+
+Bulan 1–2 → 0%
+
+Bulan 3–4 → 1%
+
+Bulan 5–7 → 5%
+
+Bulan 8 → 3%
+
+
+
+3. Menggunakan perulangan for dari 1 sampai 8.
+
+
+4. Menghitung laba tiap bulan dan menampilkannya.
+
+
+5. Menjumlahkan seluruh laba hingga bulan ke-8.
+### screenshot
+![gambar2](ss2.png)
