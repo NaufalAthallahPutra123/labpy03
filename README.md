@@ -18,4 +18,4 @@ Penjelasan:
 
 
 6. Setelah selesai, program mencetak "Selesai".
-[gambar1] ss1.PNG
+![gambar1](ss1.png)
